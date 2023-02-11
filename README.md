@@ -20,16 +20,17 @@
 5.	Al importar la base de datos, la podremos visualizar al lado izquierdo de la plataforma y ahora iniciamos nuestro Localhost para correr el proyecto, dentro de “WampServer” ya podemos observar el proyecto, en este caso, para poderlo ejecutar colocamos en la URL el nombre del proyecto para inicializarlo
 
 6.	Al importar la base de datos, la podremos visualizar al lado izquierdo de la plataforma y ahora iniciamos nuestro Localhost para correr el proyecto 
-Credenciales de acceso usuario Administrador
 
+# Credenciales de acceso usuario Administrador
 •	Usuario: adminBrian
 •	Contraseña: admin
  
-Credenciales de acceso usuario Vendedor
+# Credenciales de acceso usuario Vendedor
 •	Usuario: vendHeelen
 •	Contraseña: vendedor1
  
-NOTA: En caso tal de que el usuario vendedor no deje ingresar por la contraseña, se puede ingresar como usuario administrador y cambiar la contraseña de este usuario
+
+# NOTA: En caso tal de que el usuario vendedor no deje ingresar por la contraseña, se puede ingresar como usuario administrador y cambiar la contraseña de este usuario
 
 7.	Al ingresar como usuario administrador, podremos visualizar que la página principal muestra las categorías, los clientes y los productos almacenados en el proyecto, además encontramos un menú lateral que se despliega de izquierda a derecha con las diferentes funcionalidades que podremos usar, ya, por último, en la parte inferior se encuentra una estadística con los productos más vendidos y a la derecha los productos recién agregados 
  
